@@ -5,7 +5,7 @@
  - **Algorithm: Gradient Boosting Classifier**
  - **Performance Metric: fbeta_score**
  - **Stack: Python, SKlearn**
-<img src="./finding-charity-donors/charity.jpg" width="600">
+<img src="https://github.com/jquickgh/finding-charity-donors/blob/master/charity.jpg" width="600">
 
 ### [Dog Breed Classifier](https://github.com/jquickgh/dog-breed-classifier/blob/master/dog_app.ipynb)
  - **Deep Learning (Supervised): Computer Vision, Classification**
