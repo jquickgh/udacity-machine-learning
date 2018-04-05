@@ -5,7 +5,7 @@
  - **Algorithm: Convolutional Neural Network (CNN)**
  - **Performance Metric: Categorical Crossentropy**
  - **Stack: Python, TensorFlow, Keras**
-<img src="https://github.com/jquickgh/dog-breed-classifier/blob/master/dog-breed-2.jpg" width="600"> 
+<img src="https://github.com/jquickgh/dog-breed-classifier/blob/master/dog-breed.jpg" width="600"> 
 
 ### [Creating Customer Segments](https://github.com/jquickgh/creating-customer-segments/blob/master/customer_segments.ipynb)
  - **Machine Learning (Unsupervised): Clustering**
